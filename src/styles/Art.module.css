@@ -1,0 +1,23 @@
+.root {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: space-between;
+}
+.boardCon {
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.board {
+	height: 570px;
+	width: 570px;
+	border: 0px hsla(268, 53%, 44%, 0.959) dotted;
+	margin: 0px;
+	padding: 0px;
+}

@@ -1,0 +1,18 @@
+.root {
+	position: absolute;
+	bottom: 0;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	color: white;
+	background-color: black;
+}
+
+.title {
+	color: white;
+	letter-spacing: 1rem;
+	text-align: center;
+	width: 100%;
+}

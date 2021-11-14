@@ -1,0 +1,16 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  background-color: black;
+}
+
+.title {
+  color: white;
+  font-weight: 100;
+  letter-spacing: 0.7rem;
+  text-align: center;
+  width: 100%;
+}
