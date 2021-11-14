@@ -15,8 +15,8 @@
 }
 
 .board {
-	height: 570px;
-	width: 570px;
+	height: 100%;
+	width: 100%;
 	border: 0px hsla(268, 53%, 44%, 0.959) dotted;
 	margin: 0px;
 	padding: 0px;

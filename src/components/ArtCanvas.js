@@ -151,7 +151,7 @@ export const ArtCanvas = ({ title }) => {
 				noLinkStyle
 				href="/"
 			>
-				Go to the main page
+				Home
 			</Button>
 		</div>
 	);
